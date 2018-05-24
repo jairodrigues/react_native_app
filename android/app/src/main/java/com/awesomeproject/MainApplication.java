@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.loremcode;
 
 import android.app.Application;
 
